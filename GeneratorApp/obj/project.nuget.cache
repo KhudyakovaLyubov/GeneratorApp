@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "Ca6Y1FAGqXzQ/2umr04qvKZKj0SSsqAzr7I840cF1QLuAeeyYPElGZKNKOUO1QuOV0cksccvidCpoNlyofjHWA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\MoonLover\\source\\repos\\GeneratorApp\\GeneratorApp\\GeneratorApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\MoonLover\\.nuget\\packages\\microsoft.netcore.platforms\\6.0.0-preview.1.21102.12\\microsoft.netcore.platforms.6.0.0-preview.1.21102.12.nupkg.sha512",
+    "C:\\Users\\MoonLover\\.nuget\\packages\\microsoft.win32.systemevents\\6.0.0-preview.1.21102.12\\microsoft.win32.systemevents.6.0.0-preview.1.21102.12.nupkg.sha512",
+    "C:\\Users\\MoonLover\\.nuget\\packages\\system.configuration.configurationmanager\\6.0.0-preview.1.21102.12\\system.configuration.configurationmanager.6.0.0-preview.1.21102.12.nupkg.sha512",
+    "C:\\Users\\MoonLover\\.nuget\\packages\\system.drawing.common\\6.0.0-preview.1.21102.12\\system.drawing.common.6.0.0-preview.1.21102.12.nupkg.sha512",
+    "C:\\Users\\MoonLover\\.nuget\\packages\\system.security.accesscontrol\\6.0.0-preview.1.21102.12\\system.security.accesscontrol.6.0.0-preview.1.21102.12.nupkg.sha512",
+    "C:\\Users\\MoonLover\\.nuget\\packages\\system.security.cryptography.protecteddata\\6.0.0-preview.1.21102.12\\system.security.cryptography.protecteddata.6.0.0-preview.1.21102.12.nupkg.sha512",
+    "C:\\Users\\MoonLover\\.nuget\\packages\\system.security.permissions\\6.0.0-preview.1.21102.12\\system.security.permissions.6.0.0-preview.1.21102.12.nupkg.sha512",
+    "C:\\Users\\MoonLover\\.nuget\\packages\\system.security.principal.windows\\6.0.0-preview.1.21102.12\\system.security.principal.windows.6.0.0-preview.1.21102.12.nupkg.sha512",
+    "C:\\Users\\MoonLover\\.nuget\\packages\\system.windows.extensions\\6.0.0-preview.1.21102.12\\system.windows.extensions.6.0.0-preview.1.21102.12.nupkg.sha512"
+  ],
+  "logs": []
+}
